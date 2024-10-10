@@ -6,7 +6,7 @@ My name is Emily Nic, a civil-engineer by training and a project/product manager
 
 🌱 I’m currently learning: Python (late to the game, I know!)
 
-💬 Ask me about: My career switch from a decade in construction to working in tech/academia!
+💬 Ask me about: My career switch from a decade in construction to working in tech/academia
 
 📫 How to reach me: Email me at emilynic@psc.edu 
 
